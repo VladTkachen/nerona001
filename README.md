@@ -1,6 +1,6 @@
 <h2>Hey </h2>👋🏻,
 
-<p style="font-size: 20px">Skilled and Proven Software engineer.<br /> 4+ years of rich experience in front-end and backend development. <br /> As a professional developer, providing high quality result in time is my duty. </p>
+<p style="font-size: 20px">Senior Software engineer.<br /> 5+ years of rich experience in front-end and backend development. <br /> As a professional developer, providing high quality result in time is my duty. </p>
 
 ### 𝐒𝐤𝐢𝐥𝐥s
 <table>
@@ -83,8 +83,8 @@
     <tr>
       <td>Filda Defi</td>
       <td>Online Tutorial</td>
-      <td>CEX</td>
-      <td>Token market</td>
+      <td>IGNITE</td>
+      <td>CRIKET</td>
     </tr>
   </thead>
   <tbody>
@@ -101,7 +101,7 @@
       <td>
         <a href="https://rhizo.us/">
           <img
-            src="./assets/react.png"
+            src="./assets/1.jpg"
             width="200"
           />
           <p align="center">Material UI + React + Typescript</p>
@@ -119,7 +119,7 @@
       <td>
         <a href="https://www.xe.com/">
           <img
-            src="./assets/xe.png"
+            src="./assets/2.png"
             width="200"
           />
           <p align="center">Token Marketing place</p>
